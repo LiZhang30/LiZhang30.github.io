@@ -22,7 +22,6 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  sidebar          : true
   avatar           : "/images/profile.png"
   name             : "Li Zhang (张立)"
   pronouns         : # example: "she/her"  
