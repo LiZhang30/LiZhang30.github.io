@@ -1,5 +1,5 @@
 # Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+**Hello, I’m Li Zhang (张立)! 👋**
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
